@@ -1,0 +1,63 @@
+[
+  {
+    "id": "1",
+    "title": "Combo de teclado y mouse inalámbrico",
+    "description": "Combo de teclado y mouse inalámbrico Bluetooth ultra delgado y portátil, set inalámbrico de mouse y teclado.",
+    "code": "CT200",
+    "price": 30000,
+    "status": true,
+    "stock": 10,
+    "category": "electronics",
+    "thumbnails": [
+      "/src/img/teclado-mouse.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Auriculares inalámbricos",
+    "description": "Lenovo 1 pieza Auriculares inalámbricos Bluetooth HT38 con sonido HD.",
+    "code": "AW100",
+    "price": 50000,
+    "status": true,
+    "stock": 50,
+    "category": "audio",
+    "thumbnails": [
+      "/src/img/lenovo-auriculares.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Mochila Urbana",
+    "description": "Mochila resistente al agua para uso diario.",
+    "code": "MB001",
+    "price": 79.5,
+    "status": true,
+    "stock": 30,
+    "category": "accessories",
+    "thumbnails": [
+      "/src/img/mochila.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Nuevo Producto",
+    "description": "Nuevo Producto",
+    "code": "LP15",
+    "price": 1499.99,
+    "status": true,
+    "stock": 10,
+    "category": "prueba",
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "Nuevo Producto2",
+    "description": "Nuevo Producto",
+    "code": "LP16",
+    "price": 1499.99,
+    "status": true,
+    "stock": 10,
+    "category": "prueba",
+    "thumbnails": []
+  }
+]
