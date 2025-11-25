@@ -30,7 +30,6 @@ async function writeJSON(fileName, data) {
 function generateUniqueId(existing) {
   let id =0;
   do {
-    //id = Date.now().toString(36) + Math.random().toString(36).slice(2, 8);
     id++;
   } while (existing && existing.find((it) => String(it.id) === String(id)));
   return id;
